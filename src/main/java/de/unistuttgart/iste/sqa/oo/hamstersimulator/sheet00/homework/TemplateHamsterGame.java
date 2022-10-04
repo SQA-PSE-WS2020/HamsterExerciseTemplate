@@ -1,6 +1,6 @@
 package de.unistuttgart.iste.sqa.oo.hamstersimulator.sheet00.homework;
 
-import de.hamstersimulator.objectsfirst.external.model.SimpleHamsterGame;
+import de.hamstersimulator.objectsfirst.external.simple.game.SimpleHamsterGame;
 
 
 /**
